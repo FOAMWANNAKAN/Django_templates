@@ -1,1 +1,1 @@
-"# django_homework_webpage" 
+# django_homework_webpage
